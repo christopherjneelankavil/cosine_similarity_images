@@ -1,5 +1,3 @@
-# Define the content for the README.md file
-
 # **Cosine Similarity of Images**  
 
 This project is a simple Python program using OpenCV for finding the cosine similarity of two images. The code is implemented in a Jupyter Notebook and is designed to be executed in **Google Colab**.  
