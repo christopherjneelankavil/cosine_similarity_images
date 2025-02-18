@@ -57,11 +57,11 @@ An example is given below
  [0.74878194 1.        ]]
 ```
 
-###1.0 → The images are identical.
-###0.75 - 1.0 → The images are quite similar.
-###0.5 - 0.75 → The images are somewhat similar.
-###0 - 0.5 → The images are not very similar.
-###0 → The images are completely different.
+ - 1.0 → The images are identical.
+ - 0.75 - 1.0 → The images are quite similar.
+ - 0.5 - 0.75 → The images are somewhat similar.
+ - 0 - 0.5 → The images are not very similar.
+ - 0 → The images are completely different.
 
 ## **Contributing**
 Contributions are welcome! Feel free to fork the repository and submit a pull request for any enhancements or bug fixes.
