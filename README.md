@@ -36,12 +36,14 @@ To run this project, you need **Python 3** installed with the following librarie
 You can install them using:  
 ```bash
 pip install numpy opencv-python scikit-learn
+```
 
 ## **Usage**
 1. Clone this repository
 ```bash
 git clone https://github.com/christopherjneelankavil/cosine_similarity_images.git
 cd cosine_similarity_images
+```
 
 2. Open the Jupyter Notebook cosine_similarity.ipynb in Google Colab or any Jupyter environment.
 
@@ -55,12 +57,13 @@ An example is given below
 ```bash
 [[1.         0.74878194]
  [0.74878194 1.        ]]
+```
 
-#1.0 → The images are identical.
-#0.75 - 1.0 → The images are quite similar.
-#0.5 - 0.75 → The images are somewhat similar.
-#0 - 0.5 → The images are not very similar.
-#0 → The images are completely different.
+###1.0 → The images are identical.
+###0.75 - 1.0 → The images are quite similar.
+###0.5 - 0.75 → The images are somewhat similar.
+###0 - 0.5 → The images are not very similar.
+###0 → The images are completely different.
 
 ## **Contributing**
 Contributions are welcome! Feel free to fork the repository and submit a pull request for any enhancements or bug fixes.
